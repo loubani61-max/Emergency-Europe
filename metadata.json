@@ -1,0 +1,6 @@
+{
+  "name": "Emergency Europe",
+  "description": "Application autonome d'urgence européenne offline-first : numéros d'urgence officiels par pays européen, fiches réflexes premiers secours, géolocalisation et appels directs.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
